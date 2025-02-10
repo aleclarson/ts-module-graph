@@ -1,7 +1,7 @@
 {
   "name": "ts-module-graph",
   "type": "module",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "bin": {
     "ts-module-graph": "./dist/main.js"
   },
